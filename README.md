@@ -1,4 +1,4 @@
-# Airline Route Manager — College Showcase Website
+# Airline Route Manager — College Website
 
 A browser-based demonstration of an Airline Route Manager using JavaScript implementations of common tree and graph data structures and algorithms.
 
